@@ -1,0 +1,2 @@
+CREATE TABLE employee(id INT, name VARCHAR(50));
+INSERT INTO employee VALUES(1,'Aman'),(2,'Neha');
